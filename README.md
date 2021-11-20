@@ -1,2 +1,2 @@
-# Programaci-_Num-rica
+# Programacion_Numerica
 S03_T04
